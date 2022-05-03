@@ -1,87 +1,87 @@
-,num_label,title,label,num_title,Q4 2017,Q4 2018,Q1 2019,Q2 2019,Q3 2019,Q4 2019,Q1 2020,Q2 2020,Q3 2020,Q4 2020,Q1 2021,Q2 2021,Q3 2021,Q4 2021,Q1 2022,Q2 2022,Q3 2022,Q4 2022
-87,87,Cash flows from operating activities,net income,1,676,848,164,461,727,1003,227,395,535,351,-932,-994,-899,-665,166,424,272,256
-0,0,Adjustments to reconcile net income to net cash provided by operating activities,depreciation and amortization,2,593,559,140,280,425,578,138,277,417,557,130,256,381,507,120,244,372,504
-1,1,Adjustments to reconcile net income to net cash provided by operating activities,share-based compensation,2,76,87,21,48,72,91,24,47,64,68,18,35,55,77,36,72,97,139
-2,2,Adjustments to reconcile net income to net cash provided by operating activities,"operating lease, impairment loss",2,,0,,,,0,,0,1,239,360,361,361,,5,6,6,
-3,3,Adjustments to reconcile net income to net cash provided by operating activities,other asset impairment charges,2,107,28,,,,14,,3,9,98,124,127,127,,0,1,1,
-4,4,Adjustments to reconcile net income to net cash provided by operating activities,gain on extinguishment of debt,2,,,,,,,,0,0,,,58,58,,,0,325,
-5,5,Adjustments to reconcile net income to net cash provided by operating activities,amortization of debt issuance costs,2,,,,,,,,1,1,,0,4,8,12,4,8,11,14
-6,6,Adjustments to reconcile net income to net cash provided by operating activities,non-cash and other items,2,-4,8,7,12,10,-10,7,6,-4,-10,3,0,0,0,13,14,21,31
-7,7,Adjustments to reconcile net income to net cash provided by operating activities,gain on disposition of business,2,,,,,,,,,,,,0,0,,,59,59,
-8,8,Adjustments to reconcile net income to net cash provided by operating activities,deferred income taxes,2,-54,61,6,24,33,65,23,46,42,-81,-41,-125,-74,-137,18,28,-28,-61
-36,36,Adjustments to reconcile net income to net cash provided by operating activities,gain on disposition of property plant equipment,2,,0,0,0,0,0,-191,-191,-191,-191,0,,,,56,,,
-42,42,Adjustments to reconcile net income to net cash provided by operating activities,amortization of lease incentives,2,,,-14,-29,-45,,0,,,,,,,,,,,
-47,47,Adjustments to reconcile net income to net cash provided by operating activities,amortization lease incentives,2,-62,-60,,,,-61,,,,0,,,,,,,,
-48,48,Adjustments to reconcile net income to net cash provided by operating activities,"gain on disposition of property plant equipment, excluding oil and gas property and timber property",2,,11,,,,4,,,,70,,,,,,,,
-57,57,Adjustments to reconcile net income to net cash provided by operating activities,tax benefit from exercise of stock options and vesting of stock units,2,-4,,,,,,,,,,,,,,,,,
-58,58,Adjustments to reconcile net income to net cash provided by operating activities,excess tax benefit from exercise of stock options and vesting of stock units,2,-1,,,,,,,,,,,,,,,,,
-59,59,Adjustments to reconcile net income to net cash provided by operating activities,"goodwill, impairment loss",2,71,,,,,,,,,,,,,,,,,
-62,62,Adjustments to reconcile net income to net cash provided by operating activities,impairment of operating lease assets,2,,,,,,,,,,,,,,391,,,,8
-63,63,Adjustments to reconcile net income to net cash provided by operating activities,impairment of store assets,2,,,,,,,,,,,,,,135,,,,1
-64,64,Adjustments to reconcile net income to net cash provided by operating activities,impairment of intangible asset,2,,,,,,,,,,,,,,31,,,,0
-65,65,Adjustments to reconcile net income to net cash provided by operating activities,loss on extinguishment of debt,2,,,,,,,,,,,,,,58,,,,325
-66,66,Adjustments to reconcile net income to net cash provided by operating activities,loss on disposal of property and equipment,2,,,,,,,,,,,,,,0,,,,0
-67,67,Adjustments to reconcile net income to net cash provided by operating activities,loss on divestiture activity,2,,,,,,,,,,,,,,0,,,,59
-68,68,Adjustments to reconcile net income to net cash provided by operating activities,gain on sale of building,2,,,,,,,,,,,,,,0,,,,0
-9,9,Changes in operating assets and liabilities,merchandise inventory,3,46,-142,46,224,696,-154,83,166,559,4,-79,-91,-590,-305,69,156,-288,-593
-10,10,Changes in operating assets and liabilities,other current assets and other long-term assets,3,54,33,40,46,64,-18,-25,29,8,105,126,134,37,64,10,-98,-168,-42
-11,11,Changes in operating assets and liabilities,accounts payable,3,146,-90,-120,104,90,-78,-100,147,129,66,-203,467,1120,564,-205,-168,-119,186
-12,12,Changes in operating assets and liabilities,accrued expenses and other current liabilities,3,76,34,-232,-180,-148,-196,-37,-14,28,110,-86,-40,98,-14,40,83,239,172
-13,13,Changes in operating assets and liabilities,"income taxes payable, net of receivables and other tax-related items",3,,,,,,,,43,89,,-322,-232,-206,-304,-18,-55,-94,-85
-14,14,Changes in operating assets and liabilities,lease incentives and other long-term liabilities,3,-20,55,17,34,36,30,14,24,19,0,-18,1,54,,41,57,49,
-15,15,Changes in operating assets and liabilities,"operating lease assets and liabilities, net",3,,,,0,0,,,-64,-60,,-20,-48,-131,-189,-15,-39,-73,-102
-43,43,Changes in operating assets and liabilities,"income taxes payable, net of prepaid and other tax-related items",3,19,-52,31,62,127,113,36,,,86,,,,,,,,
-44,44,Changes in operating assets and liabilities,changeoperatingleaseassetandliabilitiesnet,3,,0,0,,,0,54,,,-61,,,,,,,,
-69,69,Changes in operating assets and liabilities,other long-term liabilities,3,,,,,,,,,,,,,,12,,,,-3
-88,88,Changes in operating assets and liabilities,net cash provided by operating activities,3,1719,1380,-66,546,567,1381,29,583,528,1411,-940,-87,399,237,340,792,682,809
-16,16,Cash flows from investing activities,purchases of property and equipment,4,-524,-731,-138,-326,-510,-705,-165,-324,-523,-702,-122,-208,-288,-392,-124,-269,-486,-694
-17,17,Cash flows from investing activities,payments to acquire short-term investments,4,0,0,-167,-322,-408,-464,-69,-150,-235,-293,-59,-59,-237,,-298,-427,-634,
-18,18,Cash flows from investing activities,"proceeds from sale, maturity and collection of short-term investments",4,,,3,36,112,,86,146,231,,297,325,348,,233,500,768,
-19,19,Cash flows from investing activities,"payments for acquisition activity, net of cash acquired",4,,,,,,,,,,,,,0,0,,,-135,-135
-20,20,Cash flows from investing activities,other,4,-5,-1,-7,-6,-7,-9,0,0,0,0,,2,2,2,,0,0,-5
-37,37,Cash flows from investing activities,proceeds from sale of buildings,4,,0,0,0,0,0,220,220,220,220,,,,,,,,
-38,38,Cash flows from investing activities,"payments to acquire businesses, net of cash acquired",4,,0,0,0,0,0,-69,-69,-69,-69,0,0,,,28,-21,,
-39,39,Cash flows from investing activities,payments to acquire buildings,4,,0,0,0,0,0,-343,-343,-343,-343,,,,,,,,
-49,49,Cash flows from investing activities,sales and maturities of short-term investments,4,0,0,,,,177,,,,293,,,,,,,,
-50,50,Cash flows from investing activities,insurance proceeds related to loss on property and equipment,4,0,66,,,,0,,,,0,,,,,,,,
-70,70,Cash flows from investing activities,purchase of building,4,,,,,,,,,,,,,,0,,,,0
-71,71,Cash flows from investing activities,proceeds from sale of building,4,,,,,,,,,,,,,,0,,,,0
-72,72,Cash flows from investing activities,purchases of short-term investments,4,,,,,,,,,,,,,,-508,,,,-753
-73,73,Cash flows from investing activities,proceeds from sales and maturities of short-term investments,4,,,,,,,,,,,,,,388,,,,1162
-89,89,Cash flows from investing activities,net cash paid for divestiture activity,4,,,,,,,,,,,,,0,0,,,-21,-21
-90,90,Cash flows from investing activities,net cash provided by investing activities,4,,,,,,,,-520,-719,,116,60,-175,,-161,-217,-508,
-92,92,Cash flows from investing activities,net cash used for investing activities,4,-529,-666,-309,-618,-813,-1001,-340,,,-894,,,,-510,,,,-446
-21,21,Cash flows from financing activities,proceeds from lines of credit,5,,,,,,,,,,,500,500,500,,0,0,0,
-22,22,Cash flows from financing activities,proceeds from issuances under share-based compensation plans,5,29,30,20,33,40,46,10,17,22,25,6,12,16,22,25,41,48,54
-23,23,Cash flows from financing activities,withholding tax payments related to vesting of stock units,5,-19,-18,-19,-20,-22,-23,-19,-20,-21,-21,-7,-8,-8,-9,-32,-32,-34,-36
-24,24,Cash flows from financing activities,repurchases of common stock,5,0,-315,-100,-200,-300,-398,-50,-100,-150,-200,,0,0,0,,-55,-128,-201
-25,25,Cash flows from financing activities,cash dividends paid,5,-367,-361,-94,-188,-281,-373,-92,-183,-274,-364,0,0,0,0,-91,-137,-182,-226
-26,26,Cash flows from financing activities,proceeds from issuance of long-term debt,5,,,,,,,,0,0,,,2250,2250,2250,,0,1500,1500
-27,27,Cash flows from financing activities,payments to extinguish debt,5,,,,,,,,,,,,,-1307,-1307,,,-2546,-2546
-28,28,Cash flows from financing activities,payments for debt issuance costs,5,,,,,,,,,,,,,-61,-61,,,-16,-16
-29,29,Cash flows from financing activities,repayments of lines of credit,5,,,,,,,,0,0,,,-500,-500,,,0,0,
-30,30,Cash flows from financing activities,"effect of exchange rate on cash, cash equivalents, restricted cash and restricted cash equivalents",5,,,-2,-11,-13,,0,-2,0,,-8,1,4,,-1,-1,-3,
-31,31,Cash flows from financing activities,"cash, cash equivalents, restricted cash and restricted cash equivalents, period increase , including exchange rate effect",5,,,-570,-459,-823,,-462,-225,-614,,-333,860,1118,,80,391,-1187,
-32,32,Cash flows from financing activities,"cash, cash equivalents, restricted cash and restricted cash equivalents beginning of period",5,,,1799,1799,1799,,1420,1420,1420,,1381,1381,1381,,2016,2016,2016,
-33,33,Cash flows from financing activities,"cash, cash equivalents, restricted cash and restricted cash equivalents end of period",5,,,1229,1340,976,,958,1195,806,,1048,2241,2499,,2096,2407,829,
-40,40,Cash flows from financing activities,repayments of long-term debt,5,,,,,,,,0,0,,,-1307,,,,0,,
-41,41,Cash flows from financing activities,payments of debt issuance costs,5,,,,,,,,0,0,,,-61,,,,0,,
-51,51,Cash flows from financing activities,payments of debt,5,-421,-67,,,,0,,,,0,,,,,,,,
-52,52,Cash flows from financing activities,other,5,0,0,,-1,-1,-1,,,,0,,,,,,,,
-53,53,Cash flows from financing activities,"effect of exchange rate on cash, cash equivalents, and restricted cash",5,0,19,,,,-10,,,,4,,,,,,,,
-54,54,Cash flows from financing activities,"cash, cash equivalents, and restricted cash at beginning of period",5,1384,1797,,,,1799,,,,1420,,,,1381,,,,2016
-55,55,Cash flows from financing activities,"cash, cash equivalents, and restricted cash end of period",5,1797,1799,,,,1420,,,,1381,,,,2016,,,,902
-60,60,Cash flows from financing activities,excess tax benefit from exercise of stock options and vesting of stock units,5,1,,,,,,,,,,,,,,,,,
-74,74,Cash flows from financing activities,proceeds from revolving credit facility,5,,,,,,,,,,,,,,500,,,,0
-75,75,Cash flows from financing activities,payments for revolving credit facility,5,,,,,,,,,,,,,,-500,,,,0
-76,76,Cash flows from financing activities,"effect of foreign exchange rate fluctuations on cash, cash equivalents, and restricted cash",5,,,,,,,,,,,,,,13,,,,-6
-78,78,Cash flows from financing activities,purchases of property and equipment not yet paid at end of period,5,,,,,,,,,,,,,,60,,,,124
-91,91,Cash flows from financing activities,net cash provided by financing activities,5,,,,,,,,-286,-423,,499,886,890,895,-98,-183,-1358,-1471
-93,93,Cash flows from financing activities,net cash used for financing activities,5,-777,-731,-193,-376,-564,-749,-151,,,-560,,,,,,,,
-94,94,Cash flows from financing activities,"net increase in cash, cash equivalents, and restricted cash",5,413,2,,,,-379,,,,-39,,,,635,,,,-1114
-34,34,Supplemental disclosure of cash flow information,"interest paid, excluding capitalized interest, operating activities",6,,,,38,77,,,38,75,,38,39,41,,2,102,178,
-56,56,Non-cash investing activities,purchases of property and equipment not yet paid at end of period,6,56,77,,,,93,,,,85,,,,,,,,
-79,79,Supplemental disclosure of cash flow information,cash paid for operating lease liabilities,6,,,,,,,,,,,,,,1096,,,,1061
-35,35,Supplemental disclosure of cash flow information,"cash paid for income taxes during the period, net of refunds",7,488,570,19,61,73,143,18,90,117,176,37,53,8,20,20,147,181,215
-45,45,Supplemental disclosure of cash flow information,cash paid for interest during the period,7,82,76,38,,,76,38,,,76,,,,145,,,,180
-46,46,Supplemental disclosure of cash flow information,"operating lease, payments",7,,0,0,0,0,0,301,,,1244,,,,,,,,
+,num_label,title,label,num_title_x,Q4 2017,Q4 2018,Q1 2019,Q2 2019,Q3 2019,Q4 2019,Q1 2020,Q2 2020,Q3 2020,Q4 2020,Q1 2021,Q2 2021,Q3 2021,Q4 2021,Q1 2022,Q2 2022,Q3 2022,Q4 2022,num_title_y
+0,78,Cash flows from operating activities,net income,1,676,848,164,461,727,1003,227,395,535,351,-932,-994,-899,-665,166,424,272,256,1
+1,0,Adjustments to reconcile net income to net cash provided by operating activities,depreciation and amortization,2,593,559,140,280,425,578,138,277,417,557,130,256,381,507,120,244,372,504,2
+2,1,Adjustments to reconcile net income to net cash provided by operating activities,share-based compensation,2,76,87,21,48,72,91,24,47,64,68,18,35,55,77,36,72,97,139,2
+3,2,Adjustments to reconcile net income to net cash provided by operating activities,"operating lease, impairment loss",2,,0,,,,0,,0,1,239,360,361,361,,5,6,6,,2
+4,3,Adjustments to reconcile net income to net cash provided by operating activities,other asset impairment charges,2,107,28,,,,14,,3,9,98,124,127,127,,0,1,1,,2
+5,4,Adjustments to reconcile net income to net cash provided by operating activities,gain on extinguishment of debt,2,,,,,,,,0,0,,,58,58,,,0,325,,2
+6,5,Adjustments to reconcile net income to net cash provided by operating activities,amortization of debt issuance costs,2,,,,,,,,1,1,,0,4,8,12,4,8,11,14,2
+7,6,Adjustments to reconcile net income to net cash provided by operating activities,non-cash and other items,2,-4,8,7,12,10,-10,7,6,-4,-10,3,0,0,0,13,14,21,31,2
+8,7,Adjustments to reconcile net income to net cash provided by operating activities,gain on disposition of business,2,,,,,,,,,,,,0,0,,,59,59,,2
+9,8,Adjustments to reconcile net income to net cash provided by operating activities,deferred income taxes,2,-54,61,6,24,33,65,23,46,42,-81,-41,-125,-74,-137,18,28,-28,-61,2
+10,36,Adjustments to reconcile net income to net cash provided by operating activities,gain on disposition of property plant equipment,2,,0,0,0,0,0,-191,-191,-191,-191,0,,,,56,,,,2
+11,42,Adjustments to reconcile net income to net cash provided by operating activities,amortization of lease incentives,2,,,-14,-29,-45,,0,,,,,,,,,,,,2
+12,47,Adjustments to reconcile net income to net cash provided by operating activities,amortization lease incentives,2,-62,-60,,,,-61,,,,0,,,,,,,,,2
+13,48,Adjustments to reconcile net income to net cash provided by operating activities,"gain on disposition of property plant equipment, excluding oil and gas property and timber property",2,,11,,,,4,,,,70,,,,,,,,,2
+14,57,Adjustments to reconcile net income to net cash provided by operating activities,tax benefit from exercise of stock options and vesting of stock units,2,-4,,,,,,,,,,,,,,,,,,2
+15,58,Adjustments to reconcile net income to net cash provided by operating activities,excess tax benefit from exercise of stock options and vesting of stock units,2,-1,,,,,,,,,,,,,,,,,,2
+16,59,Adjustments to reconcile net income to net cash provided by operating activities,"goodwill, impairment loss",2,71,,,,,,,,,,,,,,,,,,2
+17,61,Adjustments to reconcile net income to net cash provided by operating activities,impairment of operating lease assets,2,,,,,,,,,,,,,,391,,,,8,2
+18,62,Adjustments to reconcile net income to net cash provided by operating activities,impairment of store assets,2,,,,,,,,,,,,,,135,,,,1,2
+19,63,Adjustments to reconcile net income to net cash provided by operating activities,impairment of intangible asset,2,,,,,,,,,,,,,,31,,,,0,2
+20,64,Adjustments to reconcile net income to net cash provided by operating activities,loss on extinguishment of debt,2,,,,,,,,,,,,,,58,,,,325,2
+21,65,Adjustments to reconcile net income to net cash provided by operating activities,loss on disposal of property and equipment,2,,,,,,,,,,,,,,0,,,,0,2
+22,66,Adjustments to reconcile net income to net cash provided by operating activities,loss on divestiture activity,2,,,,,,,,,,,,,,0,,,,59,2
+23,67,Adjustments to reconcile net income to net cash provided by operating activities,gain on sale of building,2,,,,,,,,,,,,,,0,,,,0,2
+24,9,Changes in operating assets and liabilities,merchandise inventory,3,46,-142,46,224,696,-154,83,166,559,4,-79,-91,-590,-305,69,156,-288,-593,3
+25,10,Changes in operating assets and liabilities,other current assets and other long-term assets,3,54,33,40,46,64,-18,-25,29,8,105,126,134,37,64,10,-98,-168,-42,3
+26,11,Changes in operating assets and liabilities,accounts payable,3,146,-90,-120,104,90,-78,-100,147,129,66,-203,467,1120,564,-205,-168,-119,186,3
+27,12,Changes in operating assets and liabilities,accrued expenses and other current liabilities,3,76,34,-232,-180,-148,-196,-37,-14,28,110,-86,-40,98,-14,40,83,239,172,3
+28,13,Changes in operating assets and liabilities,"income taxes payable, net of receivables and other tax-related items",3,,,,,,,,43,89,,-322,-232,-206,-304,-18,-55,-94,-85,3
+29,14,Changes in operating assets and liabilities,lease incentives and other long-term liabilities,3,-20,55,17,34,36,30,14,24,19,0,-18,1,54,,41,57,49,,3
+30,15,Changes in operating assets and liabilities,"operating lease assets and liabilities, net",3,,,,0,0,,,-64,-60,,-20,-48,-131,-189,-15,-39,-73,-102,3
+31,43,Changes in operating assets and liabilities,"income taxes payable, net of prepaid and other tax-related items",3,19,-52,31,62,127,113,36,,,86,,,,,,,,,3
+32,44,Changes in operating assets and liabilities,changeoperatingleaseassetandliabilitiesnet,3,,0,0,,,0,54,,,-61,,,,,,,,,3
+33,68,Changes in operating assets and liabilities,other long-term liabilities,3,,,,,,,,,,,,,,12,,,,-3,3
+34,79,Changes in operating assets and liabilities,net cash provided by operating activities,3,1719,1380,-66,546,567,1381,29,583,528,1411,-940,-87,399,237,340,792,682,809,3
+35,16,Cash flows from investing activities,purchases of property and equipment,4,-524,-731,-138,-326,-510,-705,-165,-324,-523,-702,-122,-208,-288,-392,-124,-269,-486,-694,4
+36,17,Cash flows from investing activities,payments to acquire short-term investments,4,0,0,-167,-322,-408,-464,-69,-150,-235,-293,-59,-59,-237,,-298,-427,-634,,4
+37,18,Cash flows from investing activities,"proceeds from sale, maturity and collection of short-term investments",4,,,3,36,112,,86,146,231,,297,325,348,,233,500,768,,4
+38,19,Cash flows from investing activities,"payments for acquisition activity, net of cash acquired",4,,,,,,,,,,,,,0,0,,,-135,-135,4
+39,20,Cash flows from investing activities,other,4,-5,-1,-7,-6,-7,-9,0,0,0,0,,2,2,2,,0,0,-5,4
+40,37,Cash flows from investing activities,proceeds from sale of buildings,4,,0,0,0,0,0,220,220,220,220,,,,,,,,,4
+41,38,Cash flows from investing activities,"payments to acquire businesses, net of cash acquired",4,,0,0,0,0,0,-69,-69,-69,-69,0,0,,,28,-21,,,4
+42,39,Cash flows from investing activities,payments to acquire buildings,4,,0,0,0,0,0,-343,-343,-343,-343,,,,,,,,,4
+43,49,Cash flows from investing activities,sales and maturities of short-term investments,4,0,0,,,,177,,,,293,,,,,,,,,4
+44,50,Cash flows from investing activities,insurance proceeds related to loss on property and equipment,4,0,66,,,,0,,,,0,,,,,,,,,4
+45,69,Cash flows from investing activities,purchase of building,4,,,,,,,,,,,,,,0,,,,0,4
+46,70,Cash flows from investing activities,proceeds from sale of building,4,,,,,,,,,,,,,,0,,,,0,4
+47,71,Cash flows from investing activities,purchases of short-term investments,4,,,,,,,,,,,,,,-508,,,,-753,4
+48,72,Cash flows from investing activities,proceeds from sales and maturities of short-term investments,4,,,,,,,,,,,,,,388,,,,1162,4
+49,80,Cash flows from investing activities,net cash paid for divestiture activity,4,,,,,,,,,,,,,0,0,,,-21,-21,4
+50,81,Cash flows from investing activities,net cash provided by investing activities,4,,,,,,,,-520,-719,,116,60,-175,,-161,-217,-508,,4
+51,83,Cash flows from investing activities,net cash used for investing activities,4,-529,-666,-309,-618,-813,-1001,-340,,,-894,,,,-510,,,,-446,4
+52,21,Cash flows from financing activities,proceeds from lines of credit,5,,,,,,,,,,,500,500,500,,0,0,0,,5
+53,22,Cash flows from financing activities,proceeds from issuances under share-based compensation plans,5,29,30,20,33,40,46,10,17,22,25,6,12,16,22,25,41,48,54,5
+54,23,Cash flows from financing activities,withholding tax payments related to vesting of stock units,5,-19,-18,-19,-20,-22,-23,-19,-20,-21,-21,-7,-8,-8,-9,-32,-32,-34,-36,5
+55,24,Cash flows from financing activities,repurchases of common stock,5,0,-315,-100,-200,-300,-398,-50,-100,-150,-200,,0,0,0,,-55,-128,-201,5
+56,25,Cash flows from financing activities,cash dividends paid,5,-367,-361,-94,-188,-281,-373,-92,-183,-274,-364,0,0,0,0,-91,-137,-182,-226,5
+57,26,Cash flows from financing activities,proceeds from issuance of long-term debt,5,,,,,,,,0,0,,,2250,2250,2250,,0,1500,1500,5
+58,27,Cash flows from financing activities,payments to extinguish debt,5,,,,,,,,,,,,,-1307,-1307,,,-2546,-2546,5
+59,28,Cash flows from financing activities,payments for debt issuance costs,5,,,,,,,,,,,,,-61,-61,,,-16,-16,5
+60,29,Cash flows from financing activities,repayments of lines of credit,5,,,,,,,,0,0,,,-500,-500,,,0,0,,5
+61,30,Cash flows from financing activities,"effect of exchange rate on cash, cash equivalents, restricted cash and restricted cash equivalents",5,,,-2,-11,-13,,0,-2,0,,-8,1,4,,-1,-1,-3,,5
+62,31,Cash flows from financing activities,"cash, cash equivalents, restricted cash and restricted cash equivalents, period increase , including exchange rate effect",5,,,-570,-459,-823,,-462,-225,-614,,-333,860,1118,,80,391,-1187,,5
+63,32,Cash flows from financing activities,"cash, cash equivalents, restricted cash and restricted cash equivalents beginning of period",5,,,1799,1799,1799,,1420,1420,1420,,1381,1381,1381,,2016,2016,2016,,5
+64,33,Cash flows from financing activities,"cash, cash equivalents, restricted cash and restricted cash equivalents end of period",5,,,1229,1340,976,,958,1195,806,,1048,2241,2499,,2096,2407,829,,5
+65,40,Cash flows from financing activities,repayments of long-term debt,5,,,,,,,,0,0,,,-1307,,,,0,,,5
+66,41,Cash flows from financing activities,payments of debt issuance costs,5,,,,,,,,0,0,,,-61,,,,0,,,5
+67,51,Cash flows from financing activities,payments of debt,5,-421,-67,,,,0,,,,0,,,,,,,,,5
+68,52,Cash flows from financing activities,other,5,0,0,,-1,-1,-1,,,,0,,,,,,,,,5
+69,53,Cash flows from financing activities,"effect of exchange rate on cash, cash equivalents, and restricted cash",5,0,19,,,,-10,,,,4,,,,,,,,,5
+70,54,Cash flows from financing activities,"cash, cash equivalents, and restricted cash at beginning of period",5,1384,1797,,,,1799,,,,1420,,,,1381,,,,2016,5
+71,55,Cash flows from financing activities,"cash, cash equivalents, and restricted cash end of period",5,1797,1799,,,,1420,,,,1381,,,,2016,,,,902,5
+72,60,Cash flows from financing activities,excess tax benefit from exercise of stock options and vesting of stock units,5,1,,,,,,,,,,,,,,,,,,5
+73,73,Cash flows from financing activities,proceeds from revolving credit facility,5,,,,,,,,,,,,,,500,,,,0,5
+74,74,Cash flows from financing activities,payments for revolving credit facility,5,,,,,,,,,,,,,,-500,,,,0,5
+75,75,Cash flows from financing activities,"effect of foreign exchange rate fluctuations on cash, cash equivalents, and restricted cash",5,,,,,,,,,,,,,,13,,,,-6,5
+76,76,Cash flows from financing activities,purchases of property and equipment not yet paid at end of period,5,,,,,,,,,,,,,,60,,,,124,5
+77,82,Cash flows from financing activities,net cash provided by financing activities,5,,,,,,,,-286,-423,,499,886,890,895,-98,-183,-1358,-1471,5
+78,84,Cash flows from financing activities,net cash used for financing activities,5,-777,-731,-193,-376,-564,-749,-151,,,-560,,,,,,,,,5
+79,85,Cash flows from financing activities,"net increase in cash, cash equivalents, and restricted cash",5,413,2,,,,-379,,,,-39,,,,635,,,,-1114,5
+80,34,Supplemental disclosure of cash flow information,"interest paid, excluding capitalized interest, operating activities",6,,,,38,77,,,38,75,,38,39,41,,2,102,178,,7
+81,56,Non-cash investing activities,purchases of property and equipment not yet paid at end of period,6,56,77,,,,93,,,,85,,,,,,,,,6
+82,77,Supplemental disclosure of cash flow information,cash paid for operating lease liabilities,6,,,,,,,,,,,,,,1096,,,,1061,7
+83,35,Supplemental disclosure of cash flow information,"cash paid for income taxes during the period, net of refunds",7,488,570,19,61,73,143,18,90,117,176,37,53,8,20,20,147,181,215,7
+84,45,Supplemental disclosure of cash flow information,cash paid for interest during the period,7,82,76,38,,,76,38,,,76,,,,145,,,,180,7
+85,46,Supplemental disclosure of cash flow information,"operating lease, payments",7,,0,0,0,0,0,301,,,1244,,,,,,,,,7
