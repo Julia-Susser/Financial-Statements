@@ -1,0 +1,47 @@
+,title,num_title,label,"Oct. 30, 2021","Jan. 30, 2021","Oct. 31, 2020","Feb. 01, 2020","Nov. 02, 2019","May 04, 2019","Feb. 02, 2019","May 05, 2018","Jul. 31, 2021","Aug. 01, 2020","Aug. 03, 2019","Feb. 03, 2018","May 01, 2021","May 02, 2020","Aug. 04, 2018","Jan. 29, 2022","Nov. 03, 2018"
+0,Current assets,1,cash and cash equivalents,801,1988,2471,1364,788,941,1081,1210,2375,2188,1177,1783.0,2066,1028,1322,877.0,958
+1,Current assets,1,short-term investments,275,410,178,,,,,,,,,0.0,,,,0.0,
+2,Current assets,1,merchandise inventory,2721,2451,2747,2156,2720,2242,2131,2035,2281,2242,2326,1997.0,2370,2217,2202,3018.0,2668
+3,Current assets,1,other current assets,1410,1159,966,706,770,757,751,778,1201,882,770,788.0,1091,920,780,1270.0,792
+4,Current assets,1,total current assets,5207,6008,6362,4516,4572,4212,4251,4187,6194,5337,4567,4568.0,6002,4216,4590,5165.0,4714
+5,Current assets,1,"property and equipment, net of accumulated depreciation",2924,2841,2846,3122,3225,3129,2912,2791,2897,2895,3141,2805.0,2839,2945,2832,3037.0,2887
+6,Current assets,1,"operating lease, right-of-use asset",3788,4217,4460,5402,5796,5732,0,0,3975,4689,5807,,4060,4851,0,,0
+7,Current assets,1,other long-term assets,861,703,705,639,525,547,886,607,693,795,528,616.0,703,698,588,884.0,572
+8,Current assets,1,total assets,12780,13769,14373,13679,14118,13620,8049,7585,13759,13716,14043,7989.0,13604,12710,8010,12761.0,8173
+9,Current liabilities,2,accounts payable,1630,1743,2284,1174,1241,994,1126,1072,1583,1629,1246,1181.0,1530,971,1297,1951.0,1299
+10,Current liabilities,2,accrued expenses and other current liabilities,1414,1276,1283,1067,974,882,1024,975,1252,1124,908,1270.0,1294,1051,1026,1367.0,1070
+11,Current liabilities,2,"operating lease, liability, current",746,831,823,920,934,929,0,0,789,856,946,,798,886,0,,0
+12,Current liabilities,2,income taxes payable,33,34,41,48,43,26,24,11,27,40,34,10.0,16,23,18,25.0,24
+13,Current liabilities,2,total current liabilities,3823,3884,4431,3209,3192,2831,2174,2058,3651,3649,3134,2461.0,3638,3431,2341,4077.0,2393
+14,Long-term liabilities,3,total long-term debt,1484,2216,2214,1249,1249,1249,1249,1249,2220,2212,1249,,2218,1250,1249,,1249
+15,Long-term liabilities,3,"operating lease, liability, noncurrent",4163,4617,4899,5508,5650,5597,0,0,4348,5179,5644,,4449,5331,0,,0
+16,Long-term liabilities,3,lease incentives and other long-term liabilities,523,438,458,397,393,372,1073,1081,520,423,391,1135.0,493,381,1080,,1091
+17,Long-term liabilities,3,total long-term liabilities,6170,7271,7571,7154,7292,7218,2322,2330,7088,7814,7284,2384.0,7160,6962,2329,5962.0,2340
+18,Long-term liabilities,3,commitments and contingencies, , , , , , , , , , , ,, , , ,, 
+19,Long-term liabilities,4,"common stock, shares outstanding",374000,374000,374000,371000,373000,,,,376000,374000,,,377000,373000,,371000.0,
+20,Stockholders' equity,4,authorized shares for all periods presented,19,19,19,,,,,,19,19,,,,,,,
+21,Stockholders' equity,4,additional paid in capital,71,85,60,0,0,0,0,0,114,39,0,8.0,118,17,0,43.0,0
+22,Stockholders' equity,4,retained earnings,2681,2501,2268,3257,3573,3495,3481,3127,2879,2173,3551,3081.0,2667,2235,3268,2622.0,3368
+23,Stockholders' equity,4,amounts reclassified from accumulated other comprehensive income,16,9,24,40,42,57,53,51,8,22,55,,2,46,53,,53
+24,Stockholders' equity,4,total stockholders' equity,2787,2614,2371,3316,3634,3571,3553,3197,3020,2253,3625,3144.0,2806,2317,3340,2722.0,3440
+25,Stockholders' equity,4,total liabilities and stockholders' equity,12780,13769,14373,13679,14118,13620,8049,7585,13759,13716,14043,7989.0,13604,12710,8010,12761.0,8173
+26,Stockholders' equity,4,"property and equipment, accumulated depreciation",5486,5608,5891,5839,5999,,,,5603,5933,,,5616,5886,,,
+27,Stockholders' equity,4,"common stock, shares issued",374000,374000,374000,371000,373000,,,,376000,374000,,,377000,373000,,371000.0,
+28,Stockholders' equity,4,"common stock, shares authorized",2300000,2300000,2300000,2300000,2300000,,,,2300000,2300000,,,2300000,2300000,,2300000.0,
+29,Stockholders' equity,4,"common stock, par value",50000,50000,50000,50000,50000,,,,50000,50000,,,50000,50000,,0.05,
+30,Current assets,1,"available-for-sale securities, current",,,,290,294,272,288,164,337,25,294,,475,51,286,,296
+31,Stockholders' equity,4,authorized shares for all periods presented; issued and outstanding and shares,,,,19,19,19,19,19,,,19,,19,19,19,,19
+32,Long-term liabilities,3,long-term debt,,,,,,,,,,,,1249.0,,,,1484.0,
+33,Stockholders' equity,4,"common stock. par value, authorized shares for all periods presented; issued and outstanding and shares",,,,,,,,,,,,19.0,,,,,
+34,Stockholders' equity,4,accumulated other comprehensive income,,,,,,,,,,,,36.0,,,,38.0,
+35,Current assets,1,"line of credit facility, fair value of amount outstanding",,,,,,,,,,,,,0,500,,,
+36,Current liabilities,2,current maturities of debt,,,,,,,,,,,,,,,,,
+37,Current assets,1,"accumulated depreciation, depletion and amortization, property, plant, and equipment",,,,,,,,,,,,,,,,5071.0,
+38,Current assets,1,operating lease assets,,,,,,,,,,,,,,,,3675.0,
+39,Current liabilities,2,current portion of operating lease liabilities,,,,,,,,,,,,,,,,734.0,
+40,Long-term liabilities,3,long-term operating lease liabilities,,,,,,,,,,,,,,,,4033.0,
+41,Long-term liabilities,3,other long-term liabilities,,,,,,,,,,,,,,,,445.0,
+42,Stockholders' equity,4,"common stock. par value, authorized shares for all periods presented",,,,,,,,,,,,,,,,19.0,
+43,Current assets,1,"cash and cash equivalents, at carrying value",,,,,,,,,,,,,,,,,
+44,Current assets,1,"other assets, current",,,,,,,,,,,,,,,,,
+45,Current liabilities,2,"accrued liabilities, current",,,,,,,,,,,,,,,,,
